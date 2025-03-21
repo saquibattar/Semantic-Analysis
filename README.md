@@ -147,10 +147,4 @@ This folder contains:
 - **Visualizations**: Scatter plot charts for understanding the analysis results.
 ---
 
-## **Team Members**
 
--  Muhammad Ahsan Ijaz
--  Aman Basha Patel
--  Saquib Attar
-
----
